@@ -20,6 +20,10 @@ Additional Experience
 - Technical Investigation and Root Cause Analysis
 - Documentation and Process Improvement
 
-Career Goal
+### Professional Interests
 
-My goal is to develop strong system administration skills and gradually specialize in infrastructure analysis and information security.
+- IT Infrastructure
+- System Administration
+- Networking
+- Security Analysis
+- Troubleshooting
